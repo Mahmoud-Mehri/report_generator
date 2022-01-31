@@ -1,0 +1,17 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">حسابیار اندروید</string>
+    <string name="app_description">مهندس حیدری :  ۰۹۱۲۱۶۱۲۶۶۴</string>
+
+    <string name="gardesh_fragment_title">پیامک گردش حساب</string>
+    <string name="barnameh_fragment_title">گزارش بارنامه</string>
+    <string name="hesab_fragment_title">صورتحساب</string>
+    <string name="moein_fragment_title">مانده معین</string>
+    <string name="file_fragment_title">ورود اطلاعات</string>
+    <string name="dialog_date_title">انتخاب تاریخ</string>
+    <string-array name="account_type_list">
+        <item>کلیه حسابها</item>
+        <item>بدهکاران</item>
+        <item>بستانکاران</item>
+    </string-array>
+
+</resources>

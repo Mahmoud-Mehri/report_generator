@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ed2263</color>
+    <color name="colorPrimaryDark">#781833</color>
+    <color name="colorAccent">#606060</color>
+    <color name="btnColor_Normal">#2770a3</color>
+    <color name="btnColor_Pressed">#6198bf</color>
+    <color name="btnColor_Disabled">#b6b6b6</color>
+    <color name="editColor_Normal">#b6b6b6</color>
+    <color name="editColor_Focused">#f94747</color>
+    <color name="list_item_even">#b2d1e7</color>
+    <color name="list_item_search_even">#faa7a9</color>
+    <color name="list_item_pdf_even">#f4f4f4</color>
+    <color name="list_item_odd">#ffffff</color>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_menu_addfile"
+        android:orderInCategory="0"
+        android:title="@string/file_fragment_title"
+        android:icon="@drawable/ic_addfile"
+        android:checkable="true"/>
+    <item
+        android:id="@+id/nav_menu_hesab"
+        android:orderInCategory="1"
+        android:title="@string/hesab_fragment_title"
+        android:icon="@drawable/ic_hesab"
+        android:checkable="true"/>
+    <item
+        android:id="@+id/nav_menu_moein"
+        android:orderInCategory="1"
+        android:title="@string/moein_fragment_title"
+        android:icon="@drawable/ic_moein"
+        android:checkable="true"/>
+    <item
+        android:id="@+id/nav_menu_gardesh"
+        android:orderInCategory="1"
+        android:title="@string/gardesh_fragment_title"
+        android:icon="@drawable/ic_sms"
+        android:checkable="true"/>
+    <item
+        android:id="@+id/nav_menu_barnameh"
+        android:orderInCategory="1"
+        android:title="@string/barnameh_fragment_title"
+        android:icon="@drawable/ic_barnameh"
+        android:checkable="true"/>
+
+</menu>
