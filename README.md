@@ -8,3 +8,4 @@ What you will find in this project:
 3. How to use iText library to make PDF files
 4. How to use Fragments
 5. How to use Async operations and sowing progress bars
+6. How to implement Frame Animations
